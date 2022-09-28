@@ -1,6 +1,6 @@
 ### Welcome to my page!
 
-Hi, I'm Leo. I'm a full-stack software engineer. 
+Hi, I'm Leo. I'm a full-stack software engineer currently living in London. 
 
 ### Here are some of my projects:
 <table>
