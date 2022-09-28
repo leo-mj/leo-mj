@@ -31,27 +31,27 @@ Hi, I'm Leo. I'm a full-stack software engineer currently living in London.
 ### Currently learning to use:
 <ul>
   <li> 
-    <img alt="Socket.io" src="https://socket.io/images/logo.svg" width="25" height="25" align="center" />
     <a href="https://socket.io/">Socket.io</a>
+    <img alt="Socket.io" src="https://socket.io/images/logo.svg" width="25" height="25" align="center" />
   </li>
   <li>
-    <img alt="Cypress" src="https://www.cypress.io/static/8fb8a1db3cdc0b289fad927694ecb415/cypress-io-logo-social-share.png" width="25" height="25" align="center" />
     <a href="https://www.cypress.io/">Cypress</a>
+    <img alt="Cypress" src="https://www.cypress.io/static/8fb8a1db3cdc0b289fad927694ecb415/cypress-io-logo-social-share.png" width="48" height="25" align="center" />
   </li>
   <li>
-    <img alt="Blender" src="https://www.blender.org/wp-content/uploads/2015/03/blender_logo_socket-1-1280x391.png" width="25" height="25" align="center" />
     <a href="https://www.blender.org/">Blender</a>
+    <img alt="Blender" src="https://www.blender.org/wp-content/uploads/2015/03/blender_logo_socket-1-1280x391.png" width="90" height="25" align="center" />
   </li>
   <li>
-    <img alt="Midjourney" src="https://avatars.githubusercontent.com/u/61396273?s=200&v=4" width="25" height="25" align="center" />
     <a href="https://www.midjourney.com/home/">Midjourney</a>
+    <img alt="Midjourney" src="https://avatars.githubusercontent.com/u/61396273?s=200&v=4" width="25" height="25" align="center" />
   </li>
 </ul>
 
 ### Creative coding:
 <a href="https://openprocessing.org/user/334096?view=sketches&o=12">
-<img alt="Open Processing" src="https://openprocessing.org/user/165611/thumbnail" width="25" height="25" align="center" />
-<b>Open Processing</b>
+  <b>Open Processing</b>
+  <img alt="Open Processing" src="https://openprocessing.org/user/165611/thumbnail" width="25" height="25" align="center" />
 </a>
 
 ### How to reach me:
