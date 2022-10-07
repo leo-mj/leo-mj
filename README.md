@@ -48,17 +48,26 @@ Hi, I'm Leo. I'm a full-stack software engineer currently living in London.
     <a href="https://www.blender.org/">Blender</a>
     <img alt="Blender" src="https://www.blender.org/wp-content/uploads/2015/03/blender_logo_socket-1-1280x391.png" width="90" height="25" align="center" />
   </li>
-  <li>
-    <a href="https://www.midjourney.com/home/">Midjourney</a>
-    <img alt="Midjourney" src="https://avatars.githubusercontent.com/u/61396273?s=200&v=4" width="25" height="25" align="center" />
-  </li>
 </ul>
 
-### Creative coding:
-<a href="https://openprocessing.org/user/334096?view=sketches&o=12">
+### Creative Coding:
+<p>p5.js sketches: <a href="https://openprocessing.org/user/334096?view=sketches&o=12">
   <b>Open Processing</b>
   <img alt="Open Processing" src="https://openprocessing.org/user/165611/thumbnail" width="25" height="25" align="center" />
-</a>
+</a></p>
+<p>Some Midjourney and Dall-E 2 creations:</p>
+<table>
+  <tbody>
+    <tr>
+      <td><a href="https://openai.com/dall-e-2/"><img width="200" src="./london-ewoks-dall-e.png"></a></td>
+      <td><a href="https://openai.com/dall-e-2/"><img width="200" src="./chopin1-dall-e.png"></a></td>
+      <td rowspan="2"><a href="https://www.midjourney.com/home/"><img width="200" src="./white-dragon-mj.png"></a></td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2"><a href="https://www.midjourney.com/home/"><img width="400" src="./chopin-mj.png"></a></td>
+    </tr>
+  </tbody>
+</table>
 
 ### How to reach me:
 <a href="https://uk.linkedin.com/in/leomaedje/en" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
