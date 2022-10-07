@@ -33,6 +33,7 @@ Hi, I'm Leo. I'm a full-stack software engineer currently living in London.
     </tr>
   </tbody>
 </table>
+<p>You can head over to my <a href="https://leo-mj.notion.site/Leo-s-Portfolio-6e82a956f6b748cbb7e6e7e3eac26dee">portfolio</a> for more details!</p>
 
 ### Currently learning to use:
 <ul>
