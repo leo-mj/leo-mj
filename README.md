@@ -20,7 +20,7 @@ Hi, I'm Leo. I'm a full-stack software engineer currently living in London.
       <td><b>Solo</b></td>
     </tr>
     <tr>
-      <td><a href="https://connect-2-connect-4.netlify.app/"><b>Connect 4 </b></a></td>
+      <td><a href="https://connect-2-connect-4.netlify.app/"><b>Connect 4 🔵🔴🔴🔵</b></a></td>
       <td><a href="https://github.com/leo-mj/connect-four-frontend"><b>React</b></a></td>
       <td><a href="https://github.com/leo-mj/connect-four-backend"><b>Socket.io Express Node.js</b></a></td>
       <td><b>Solo</b></td>
