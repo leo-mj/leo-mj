@@ -26,6 +26,11 @@ Hi, I'm Leo. I'm a full-stack software engineer currently living in London.
       <td><b>Solo</b></td>
     </tr>
     <tr>
+      <td><a href="https://metaethics-resources.vercel.app/"><b>Metaethics Resources 🤔<b></a></td>
+      <td colspan="2"><a href="https://github.com/leo-mj/metaethics-resources"><b>React PostgreSQL Node.js & Vercel Serverless Functions</b></a></td>
+      <td><b>Solo</b></td>
+    </tr>
+    <tr>
       <td><a href="https://c5c1-frontend.netlify.app/"><b>Study Resource Catalog App 📖<b></a></td>
       <td><a href="https://github.com/Wilrosmi/C5C1-frontend"><b>React</b></a></td>
       <td><a href="https://github.com/Wilrosmi/C5C1-backend"><b>PostgreSQL Express Node.js</b></a></td>
@@ -43,24 +48,23 @@ Hi, I'm Leo. I'm a full-stack software engineer currently living in London.
 
 ### Currently learning to use:
 <ul>
+  <li>
+    <a href="https://vercel.com/">Vercel</a>
+  </li>
   <li> 
     <a href="https://socket.io/">Socket.io</a>
-    <img alt="Socket.io" src="https://socket.io/images/logo.svg" width="25" height="25" align="center" />
   </li>
   <li>
     <a href="https://www.cypress.io/">Cypress</a>
-    <img alt="Cypress" src="https://www.cypress.io/static/8fb8a1db3cdc0b289fad927694ecb415/cypress-io-logo-social-share.png" width="48" height="25" align="center" />
   </li>
   <li>
     <a href="https://www.blender.org/">Blender</a>
-    <img alt="Blender" src="https://www.blender.org/wp-content/uploads/2015/03/blender_logo_socket-1-1280x391.png" width="90" height="25" align="center" />
   </li>
 </ul>
 
 ### Creative Coding:
 <p>p5.js sketches: <a href="https://openprocessing.org/user/334096?view=sketches&o=12">
   <b>Open Processing</b>
-  <img alt="Open Processing" src="https://openprocessing.org/user/165611/thumbnail" width="25" height="25" align="center" />
 </a></p>
 <p>Some Midjourney and Dall-E 2 creations:</p>
 <table>
