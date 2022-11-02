@@ -58,6 +58,9 @@ Hi, I'm Leo. I'm a full-stack software engineer currently living in London.
     <a href="https://www.cypress.io/">Cypress</a>
   </li>
   <li>
+    <a href="https://supabase.com/">Supabase</a>
+  </li>
+  <li>
     <a href="https://www.blender.org/">Blender</a>
   </li>
 </ul>
