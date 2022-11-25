@@ -36,12 +36,6 @@ Hi, I'm Leo. I'm a full-stack software engineer currently living in London.
       <td><a href="https://github.com/Wilrosmi/C5C1-backend"><b>PostgreSQL Express Node.js</b></a></td>
       <td><b>Collab</b></td>
     </tr>
-    <tr>
-      <td><a href="https://team2-dog-breed-voter.netlify.app/"><b>Election of the Cutest Dog 🐶</b></a></td>
-      <td><a href="https://github.com/leo-mj/dog-breed-voter-frontend"><b>React</b></a></td>
-      <td><a href="https://github.com/leo-mj/dog-breed-voter-backend"><b>PostgreSQL Express Node.js</b></a></td>
-      <td><b>Collab</b></td>
-    </tr>
   </tbody>
 </table>
 <p>You can head over to my <a href="https://leo-mj.notion.site/Leo-s-Portfolio-6e82a956f6b748cbb7e6e7e3eac26dee">portfolio</a> for more details!</p>
