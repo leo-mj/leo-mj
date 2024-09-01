@@ -26,12 +26,12 @@ Hi, I'm Leo. I'm a full-stack software engineer currently living in London.
       <td><b>Solo</b></td>
     </tr>
     <tr>
-      <td><a href="https://metaethics-resources.vercel.app/"><b>Metaethics Resources 🤔<b></a></td>
+      <td><a href="https://metaethics-resources.vercel.app/"><b>Metaethics Resources 🤔 (no longer active)<b></a></td>
       <td colspan="2"><a href="https://github.com/leo-mj/metaethics-resources"><b>React PostgreSQL Node.js & Vercel Serverless Functions</b></a></td>
       <td><b>Solo</b></td>
     </tr>
     <tr>
-      <td><a href="https://c5c1-frontend.netlify.app/"><b>Study Resource Catalog App 📖<b></a></td>
+      <td><a href="https://c5c1-frontend.netlify.app/"><b>Study Resource Catalog App 📖 (no longer active) <b></a></td>
       <td><a href="https://github.com/Wilrosmi/C5C1-frontend"><b>React</b></a></td>
       <td><a href="https://github.com/Wilrosmi/C5C1-backend"><b>PostgreSQL Express Node.js</b></a></td>
       <td><b>Collab</b></td>
