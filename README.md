@@ -1,6 +1,6 @@
 ### Welcome to my page!
 
-Hi, I'm Leo. I'm a full-stack software engineer currently living in London. 
+Hi, I'm Leo. I'm a full-stack software engineer and philosophy PhD researcher working from Hamburg. 
 
 ### Here are some of my projects:
 <table>
@@ -14,6 +14,12 @@ Hi, I'm Leo. I'm a full-stack software engineer currently living in London.
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://leo-mj.github.io/reflective-appilibrium/"><b>Reflective Appilibrium (Demo)</b></a></td>
+      <td><a href="https://github.com/leo-mj/reflective-appilibrium/tree/main/app"><b>React</b></a></td>
+      <td><a href="https://github.com/leo-mj/reflective-appilibrium/tree/main/backend"><b>Fast API</b></a></td>
+      <td><b>Solo</b></td>
+    </tr>
+    <tr>
       <td><a href="https://wordle-clone-multiplayer.netlify.app/"><b>Wordle Clone Multiplayer 🟩⬛🟨</b></a></td>
       <td><a href="https://github.com/leo-mj/wordle-guess-marker"><b>React</b></a></td>
       <td><a href="https://github.com/leo-mj/wordle-platform-backend"><b>PostgreSQL Express Node.js</b></a></td>
@@ -26,11 +32,6 @@ Hi, I'm Leo. I'm a full-stack software engineer currently living in London.
       <td><b>Solo</b></td>
     </tr>
     <tr>
-      <td><a href="https://metaethics-resources.vercel.app/"><b>Metaethics Resources 🤔 (no longer active)<b></a></td>
-      <td colspan="2"><a href="https://github.com/leo-mj/metaethics-resources"><b>React PostgreSQL Node.js & Vercel Serverless Functions</b></a></td>
-      <td><b>Solo</b></td>
-    </tr>
-    <tr>
       <td><a href="https://c5c1-frontend.netlify.app/"><b>Study Resource Catalog App 📖 (no longer active) <b></a></td>
       <td><a href="https://github.com/Wilrosmi/C5C1-frontend"><b>React</b></a></td>
       <td><a href="https://github.com/Wilrosmi/C5C1-backend"><b>PostgreSQL Express Node.js</b></a></td>
@@ -38,7 +39,7 @@ Hi, I'm Leo. I'm a full-stack software engineer currently living in London.
     </tr>
   </tbody>
 </table>
-<p>You can head over to my <a href="https://leo-mj.notion.site/Leo-s-Portfolio-6e82a956f6b748cbb7e6e7e3eac26dee">portfolio</a> for more details!</p>
+
 
 ### Currently learning to use:
 <ul>
