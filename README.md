@@ -60,23 +60,5 @@ Hi, I'm Leo. I'm a full-stack software engineer and philosophy PhD researcher wo
   </li>
 </ul>
 
-### Creative Coding:
-<p>p5.js sketches: <a href="https://openprocessing.org/user/334096?view=sketches&o=12">
-  <b>Open Processing</b>
-</a></p>
-<p>Some Midjourney and Dall-E 2 creations:</p>
-<table>
-  <tbody>
-    <tr>
-      <td><a href="https://openai.com/dall-e-2/"><img width="200" src="./london-ewoks-dall-e.png"></a></td>
-      <td><a href="https://openai.com/dall-e-2/"><img width="200" src="./chopin1-dall-e.png"></a></td>
-      <td rowspan="2"><a href="https://www.midjourney.com/home/"><img width="200" src="./white-dragon-mj.png"></a></td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2"><a href="https://www.midjourney.com/home/"><img width="400" src="./chopin-mj.png"></a></td>
-    </tr>
-  </tbody>
-</table>
-
 ### How to reach me:
 <a href="https://uk.linkedin.com/in/leomaedje/en" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
